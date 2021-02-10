@@ -1,4 +1,4 @@
-# Credit Card Customer Attrition
+# Credit Card Attrition Analysis
 ![Credit Card Image](/credit_card_image.jpg)
 
 ## Context
